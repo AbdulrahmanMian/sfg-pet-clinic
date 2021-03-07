@@ -1,4 +1,4 @@
-package guru.springframework.model;
+package guru.springframework.petclinic.model;
 
 public class Person {
     public String getFirstname() {

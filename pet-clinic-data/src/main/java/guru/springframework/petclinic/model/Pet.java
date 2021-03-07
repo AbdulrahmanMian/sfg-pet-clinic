@@ -1,13 +1,13 @@
-package guru.springframework.model;
+package guru.springframework.petclinic.model;
 
 import java.time.LocalDate;
 
 public class Pet {
-    public main.java.guru.springframework.model.PetType getPetType() {
+    public PetType getPetType() {
         return petType;
     }
 
-    public void setPetType(main.java.guru.springframework.model.PetType petType) {
+    public void setPetType(PetType petType) {
         this.petType = petType;
     }
 
@@ -27,7 +27,7 @@ public class Pet {
         this.birthday = birthday;
     }
 
-    private main.java.guru.springframework.model.PetType petType;
+    private PetType petType;
     private Owner owner;
     private LocalDate birthday;
 }
