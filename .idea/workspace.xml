@@ -6,9 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="270fba91-d698-449f-af50-99cd4cae0631" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/java/guru/springframework/petclinic/controllers/VetController.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/java/guru/springframework/petclinic/controllers/VetController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/templates/vets/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/templates/vets/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/guru/springframework/petclinic/services/map/AbstractMapService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/guru/springframework/petclinic/services/map/AbstractMapService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/guru/springframework/petclinic/services/map/OwnerServiceMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/guru/springframework/petclinic/services/map/OwnerServiceMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/guru/springframework/petclinic/services/map/PetServiceMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/guru/springframework/petclinic/services/map/PetServiceMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/guru/springframework/petclinic/services/map/VetServiceMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/guru/springframework/petclinic/services/map/VetServiceMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/java/guru/springframework/petclinic/bootstrap/DataLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/java/guru/springframework/petclinic/bootstrap/DataLoader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -214,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616431757245</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="List all Vets on Vet Index Page. closes #12">
+      <created>1616502697426</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1616502697427</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,6 +258,7 @@
     <MESSAGE value="Load Bootstrap Data on Startup. closes #9" />
     <MESSAGE value="Implement Spring Configuration for Services. closes #10" />
     <MESSAGE value="List all Owners on Owners Index Page. closes #11" />
-    <option name="LAST_COMMIT_MESSAGE" value="List all Owners on Owners Index Page. closes #11" />
+    <MESSAGE value="List all Vets on Vet Index Page. closes #12" />
+    <option name="LAST_COMMIT_MESSAGE" value="List all Vets on Vet Index Page. closes #12" />
   </component>
 </project>
