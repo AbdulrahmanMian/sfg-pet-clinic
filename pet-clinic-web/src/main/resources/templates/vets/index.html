@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<html lang="en" xmlns:th="http://www.thymeleaf.org" th:replace="~{fragments/layout :: layout (~{::body},'vets')}">>
 <head>
     <meta charset="UTF-8">
     <title>List Of Vets</title>
@@ -8,8 +8,8 @@
 <!--/*@thymesVar id="vet" type="guru.springframework.sfgpetclinic.model.Vet"*/-->
 <!--The line above tells IntelliJ where the owners class is.
 The '? ' at line 24, for example, tells that no null values should be taken-->
-<h1 th:text="'List of Vets'">List of Vets...</h1>
-<table>
+<h2 th:text="'List of Vets'">List of Vets...</h2>
+<table class="table table-striped">
     <thead>
     <tr>
         <th>ID</th>
