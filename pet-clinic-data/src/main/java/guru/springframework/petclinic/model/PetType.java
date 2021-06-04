@@ -10,6 +10,6 @@ public class PetType extends BaseEntity {
     }
 
     private String name;
-    private String yes;
+
 
 }
