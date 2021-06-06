@@ -1,5 +1,7 @@
 package guru.springframework.petclinic.services;
 
+import guru.springframework.petclinic.model.Speciality;
+
 import java.util.Set;
 
 public interface CrudService <T, ID>{
