@@ -63,8 +63,8 @@ public class DataLoader implements CommandLineRunner {
 
 
         Owner owner1= new Owner();
-        owner1.setFirstname("Mike-1");
-        owner1.setLastname("LastnameOwner");
+        owner1.setFirstName("Mike-1");
+        owner1.setLastName("LastnameOwner");
         owner1.setAddress("Adress-1");
         owner1.setCity("City1");
         owner1.setTelephone("012345678");
@@ -78,8 +78,8 @@ public class DataLoader implements CommandLineRunner {
         owner1.getPets().add(mikesPet);
 
         Owner owner2= new Owner();
-        owner2.setFirstname("Fiona-2");
-        owner2.setLastname("LastnameOwner-2");
+        owner2.setFirstName("Fiona-2");
+        owner2.setLastName("LastnameOwner-2");
         owner2.setAddress("Adress-2");
         owner2.setCity("City2");
         owner2.setTelephone("98765432");
@@ -95,15 +95,15 @@ public class DataLoader implements CommandLineRunner {
         System.out.println("Loaded the Owners....");
 
         Vet vet1= new Vet();
-        vet1.setFirstname("FirstnameVet");
-        vet1.setLastname("LastnameVet");
+        vet1.setFirstName("FirstnameVet");
+        vet1.setLastName("LastnameVet");
         vet1.getSpecialities().add(savedRadiology);
 
         vetService.save(vet1);
 
         Vet vet2= new Vet();
-        vet2.setFirstname("FirstnameVet-2");
-        vet2.setLastname("LastnameVet-2");
+        vet2.setFirstName("FirstnameVet-2");
+        vet2.setLastName("LastnameVet-2");
         vet2.getSpecialities().add(savedSurgery);
         vetService.save(vet2);
 
