@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="270fba91-d698-449f-af50-99cd4cae0631" name="Default Changelist" comment="" />
+    <list default="true" id="270fba91-d698-449f-af50-99cd4cae0631" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -424,7 +426,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625582308594</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="deleted circleci">
+      <created>1625582626799</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1625582626799</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -444,7 +453,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/sfg-pet-clinic" />
     </ignored-roots>
-    <MESSAGE value="Adding base Entity. closes #3" />
     <MESSAGE value="Refactored Service Interface to Common Interface. closes #4" />
     <MESSAGE value="Implement Map Based Services. closes #5" />
     <MESSAGE value="Adding Index Page and Controller. closes #6" />
@@ -469,7 +477,8 @@
     <MESSAGE value="Implement Test OwnerMapService. closes #24" />
     <MESSAGE value="Implement Tests for Owner Controller and SDA Service. closes #25" />
     <MESSAGE value="adding circlei config.yml" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding circlei config.yml" />
+    <MESSAGE value="deleted circleci" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleted circleci" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
