@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="270fba91-d698-449f-af50-99cd4cae0631" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="270fba91-d698-449f-af50-99cd4cae0631" name="Default Changelist" comment="adding circlei config.yml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +60,7 @@
       <recent name="C:\Users\abdulrahman.mian\OneDrive - Accenture\Java\Spring\sfg-pet-clinic\src\main\java\guru\springframework\model" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\abdulrahman.mian\OneDrive - Accenture\Java\Spring\sfg-pet-clinic\.circleci" />
       <recent name="C:\Users\abdulrahman.mian\OneDrive - Accenture\Java\Spring\sfg-pet-clinic\pet-clinic-web\src\main\resources\templates" />
       <recent name="C:\Users\abdulrahman.mian\OneDrive - Accenture\Java\Spring\sfg-pet-clinic\pet-clinic-web\src\main\resources" />
       <recent name="C:\Users\abdulrahman.mian\OneDrive - Accenture\Java\Spring\sfg-pet-clinic\pet-clinic-web\src\test" />
@@ -411,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625480934992</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="adding circlei config.yml">
+      <created>1625581980679</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1625581980679</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -431,7 +437,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/sfg-pet-clinic" />
     </ignored-roots>
-    <MESSAGE value="Interfaces created for Services" />
     <MESSAGE value="Adding base Entity. closes #3" />
     <MESSAGE value="Refactored Service Interface to Common Interface. closes #4" />
     <MESSAGE value="Implement Map Based Services. closes #5" />
@@ -456,7 +461,8 @@
     <MESSAGE value="Set profiles up for different environments. closes #23" />
     <MESSAGE value="Implement Test OwnerMapService. closes #24" />
     <MESSAGE value="Implement Tests for Owner Controller and SDA Service. closes #25" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement Tests for Owner Controller and SDA Service. closes #25" />
+    <MESSAGE value="adding circlei config.yml" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding circlei config.yml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
