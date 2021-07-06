@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="270fba91-d698-449f-af50-99cd4cae0631" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pet-clinic-data/src/test/java/guru/springframework/petclinic/springdatajpa/OwnerSDJpaServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/test/java/guru/springframework/petclinic/controllers/OwnerControllerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -407,7 +404,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625130827763</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Implement Tests for Owner Controller and SDA Service. closes #25">
+      <created>1625480934992</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1625480934992</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -427,7 +431,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/sfg-pet-clinic" />
     </ignored-roots>
-    <MESSAGE value="Pom file changed for release" />
     <MESSAGE value="Interfaces created for Services" />
     <MESSAGE value="Adding base Entity. closes #3" />
     <MESSAGE value="Refactored Service Interface to Common Interface. closes #4" />
@@ -452,7 +455,8 @@
     <MESSAGE value="Add JPA Annotations. closes #22" />
     <MESSAGE value="Set profiles up for different environments. closes #23" />
     <MESSAGE value="Implement Test OwnerMapService. closes #24" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement Test OwnerMapService. closes #24" />
+    <MESSAGE value="Implement Tests for Owner Controller and SDA Service. closes #25" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement Tests for Owner Controller and SDA Service. closes #25" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
